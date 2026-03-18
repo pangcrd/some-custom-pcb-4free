@@ -36,7 +36,7 @@ BOARD_NAME/
 | Preview | Board | Description | MCU / IC | Status |
 |---------|-------|-------------|----------|--------|
 | ![](./ADS1115_PCB/images/ADS115_font.png) | [ADS1115_PCB](./ADS1115_PCB/) | 16-bit ADC breakout with I2C interface | ADS1115 | ✅ Done |
-| ![](./ESP32-S3-N16R8-CUSTOM_BMS/images/pcb_top.jpg) | [ESP32-S3-N16R8-CUSTOM_BMS](./ESP32-S3-N16R8-CUSTOM_BMS/) | Custom ESP32 with battery charger & IO extend | ESP32-S3-N16R8 | ✅ Done |
+| ![](./ESP32-S3-N16R8-CUSTOM_BMS/images/pcb_top.jpg) | [ESP32-S3-N16R8-CUSTOM_BMS](./ESP32-S3-N16R8-CUSTOM_BMS/) | Custom ESP32 S3 with battery charger & IO extend | ESP32-S3-N16R8 | ✅ Done |
 | ![](./ESP32C3SMINI_CUSTOM_PCB/images/front.png) | [ESP32C3SMINI_CUSTOM_PCB](./ESP32C3SMINI_CUSTOM_PCB/) | Custom ESP32-C3 with battery, OLED & IO extend | ESP32-C3 Super Mini | ✅ Done |
 | | *(more coming...)* | | | 🚧 |
 
@@ -69,7 +69,7 @@ Have an improvement or a new board to add?
 
 ## 📜 License
 
-Free to use for personal projects. Fork, remix, and build on them freely — no attribution required, but always appreciated. 🙌
+Free to use for personal projects. Fork, remix, and build on them freely. 🙌
 
 ---
 
