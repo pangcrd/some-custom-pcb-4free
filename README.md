@@ -20,6 +20,7 @@ Each board lives in its own folder with the same layout:
 
 ```
 BOARD_NAME/
+├── code_example/   # Sample code to test & use the board
 ├── gerber/         # Gerber files for manufacturing
 ├── images/         # PCB renders & photos
 ├── kicad-file/     # KiCad project files
